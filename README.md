@@ -1,6 +1,7 @@
 # Belajar Java ☕️
 
 Repositori ini berisi kumpulan file dan folder hasil pembelajaran saya tentang bahasa pemrograman Java. disini saya belajar memahami tentang dasar-dasar Java, struktur kode, hingga konsep OOP (Object-Oriented Programming).
+repositori ini belum cukup lengkap untuk dipelajari oleh orang lain, untuk kedepannya mungkin saya akan menambahkan catatan-catatan agar semua orang bisa memahaminya.
 
 
 ## Struktur Folder
